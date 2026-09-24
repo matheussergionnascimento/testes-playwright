@@ -1,10 +1,10 @@
-# 🧪 Testes Automatizados com Playwright (Page Object Model)
+#  Testes Automatizados com Playwright (Page Object Model)
 
 Este repositório contém a automação de testes End-to-End (E2E) desenvolvida com **Playwright** e **Node.js**, aplicando o padrão de arquitetura **Page Object Model (POM)**.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Playwright:** Framework de automação de testes.
 - **JavaScript / Node.js:** Linguagem e ambiente de execução.
@@ -13,4 +13,4 @@ Este repositório contém a automação de testes End-to-End (E2E) desenvolvida 
 
 ---
 
-## 📁 Estrutura do Projetos
+##  Estrutura do Projetos
